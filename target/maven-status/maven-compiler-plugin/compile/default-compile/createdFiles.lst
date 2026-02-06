@@ -1,0 +1,6 @@
+com\wellsfargo\counselor\entity\FinancialAdvisor.class
+com\wellsfargo\counselor\entity\Advisor.class
+com\wellsfargo\counselor\entity\Portfolio.class
+com\wellsfargo\counselor\entity\Security.class
+com\wellsfargo\counselor\Entrypoint.class
+com\wellsfargo\counselor\entity\Client.class
